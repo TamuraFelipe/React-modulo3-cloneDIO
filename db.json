@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Felipe Diego Tamura",
+      "email": "felipe@email.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Steffi Yumi",
+      "email": "steffi@email.com",
+      "senha": "123456"
+    },
+    {
+      "name": "User Teste",
+      "email": "user@email.com",
+      "senha": "123456",
+      "id": 3
+    }
+  ]
+}
