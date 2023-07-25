@@ -54,12 +54,8 @@ npm run api
 
 Agora, você pode acessar o projeto em `http://localhost:3000` no seu navegador.
 
-```
 
 Lembre-se de substituir "seu-usuario" e "seu-projeto" com os valores corretos, de acordo com o link do seu repositório no GitHub.
-
-Além disso, você pode adicionar qualquer outra informação relevante sobre a instalação ou requisitos do projeto nessa seção. Essas instruções ajudarão os colaboradores e usuários a configurarem e executarem o projeto localmente sem problemas.
-```
 
 ## Considerações Finais
 
